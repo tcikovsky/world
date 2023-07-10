@@ -1,0 +1,6 @@
+1. The population rises each year by POPULATION_GROWTH_PER_ANNUM until ich reaches MAX POPULATION.
+2. maxPopulation equals amountOfFood divided by numberOfPeople.
+3. Every adult makes ADULT_FOOD_PRODUCTION_PER_ANNUM amount of food per year.
+4. An adults eats 1 and a kid 0.5 food pieces per year.
+4. To be born, a kid needs a pair of parents above the age of 18 and at least 9 food pieces between the parents.
+5. A kid starts producing food at 18 years.
